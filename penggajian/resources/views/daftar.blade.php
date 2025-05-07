@@ -106,7 +106,7 @@
 </head>
 <body>
     <form class="register-box" method="POST">
-        <img src="logo.png" width="80" alt="Logo">
+        <img src="img/logo (1).png" width="80" alt="Logo">
         <h2>Daftar Akun</h2>
         <input type="text" name="nama" placeholder="Nama Lengkap" required>
         <input type="email" name="email" placeholder="Email" required>
@@ -124,7 +124,7 @@
 
         <button type="submit" name="submit">Daftar</button>
         <div class="text-center">
-            Sudah punya akun? <a href="login.php">Login di sini</a>
+            Sudah punya akun? <a href="/login">Login di sini</a>
         </div>
     </form>
 

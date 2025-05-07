@@ -111,7 +111,7 @@
 </head>
 <body>
     <form method="POST" class="login-box">
-        <img src="logo.png" width="80" alt="Logo">
+        <img src="img/logo (1).png" width="80" alt="Logo">
         <h2>Penggajian Karyawan</h2>
         <p>Kelola Gaji Karyawan Lebih Mudah!</p>
 
@@ -124,7 +124,7 @@
 
         <button type="submit" name="login">Login</button>
         <div class="text-center">
-            Belum punya akun? <a href="daftar.php">Daftar di sini</a>
+            Belum punya akun? <a href="/daftar">Daftar di sini</a>
         </div>
     </form>
 
